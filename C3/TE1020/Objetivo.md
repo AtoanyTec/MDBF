@@ -1,0 +1,21 @@
+### 🎯 **Objetivo de evaluación alineado al propósito formativo**
+
+El objetivo de la evaluación en la Unidad de Formación **TE1020 – Análisis de circuitos eléctricos** es **valorar la capacidad del estudiante para explicar, demostrar y evaluar el funcionamiento de sistemas y dispositivos ingenieriles a través del análisis de circuitos eléctricos**, aplicando de manera integrada los principios de las ciencias naturales, matemáticas y computación.
+
+Esta evaluación se diseñó con el propósito de **comprobar el nivel de dominio alcanzado en los resultados de aprendizaje esperados**, particularmente en la comprensión y aplicación de las leyes fundamentales de los circuitos (Ohm, Kirchhoff, Thevenin, Norton y máxima transferencia de potencia), así como en la **habilidad para analizar y resolver circuitos en corriente directa mediante métodos sistemáticos** (nodos, mallas y superposición).
+
+El proceso evaluativo se **centra en el desarrollo de competencias**, ya que no se limita a la medición del conocimiento declarativo, sino que **integra el razonamiento analítico, la justificación teórica y la demostración empírica** del comportamiento de los sistemas eléctricos. Los instrumentos de evaluación —exámenes teórico-prácticos, resolución de problemas contextualizados y un caso integrador— permiten evidenciar la capacidad del estudiante para **aplicar conceptos eléctricos en la solución de problemas reales de ingeniería**, sustentando sus decisiones con argumentos estructurados y coherentes.
+
+Los **indicadores de logro** incluidos en el proceso evaluativo son:
+
+* Identifica y relaciona correctamente las variables eléctricas (voltaje, corriente, potencia y energía) en diferentes tipos de circuitos.
+* Aplica con precisión las leyes de Ohm y Kirchhoff en el análisis de circuitos de corriente directa.
+* Utiliza métodos de nodos, mallas y teoremas de circuitos (Thevenin, Norton, superposición) para resolver sistemas eléctricos.
+* Interpreta los resultados obtenidos y los contrasta con modelos teóricos y de simulación.
+* Justifica de manera lógica y fundamentada las soluciones propuestas, evidenciando comprensión conceptual y capacidad crítica.
+
+En conjunto, esta alineación asegura que la evaluación contribuya directamente al **propósito formativo de la Unidad de Formación**, promoviendo en el estudiante no solo el dominio técnico del análisis de circuitos eléctricos, sino también el desarrollo de **competencias ingenieriles integrales** orientadas a la resolución de problemas y la argumentación sustentada en principios científicos.
+
+---
+
+¿Quieres que te lo prepare también en **formato institucional** (por ejemplo, con encabezado, campos de propósito, competencias y evidencias, como en los reportes académicos del Tec de Monterrey)? Puedo adaptarlo a ese estilo.
