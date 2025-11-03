@@ -1,4 +1,4 @@
-### 🎯 **Objetivo de evaluación alineado al propósito formativo**
+# 🎯 **Objetivo de evaluación alineado al propósito formativo**
 
 El objetivo de evaluación de esta actividad es valorar la capacidad del/la estudiante para aplicar los princippios fundamentales del análisis de circuitos eléctricos en el diseño e implementaciónde un dispositivo funcional - un voltímetro-óhmetro a partir de un galvanómetro -, demostrando dominio conceptual, razonamiento analítico y criterio ingenieril en la selección y cálculode los componentes delcircuito.
 
