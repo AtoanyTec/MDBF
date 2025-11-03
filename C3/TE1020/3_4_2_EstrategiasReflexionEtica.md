@@ -1,0 +1,4 @@
+# 🧭 Estrategias para promover la reflexión ética en los estudiantes
+Con el propósito de fomentar la reflexión ética en el uso de la inteligencia artificial (IA) dentro del curso TE1020 – Análisis de Circuitos Eléctricos, se implementó una estrategia de acompañamiento ético basada en un código de colores, el cual orienta a los estudiantes sobre cuándo y cómo es apropiado utilizar herramientas de IA generativa (como ChatGPT, Copilot o Gemini) en sus actividades académicas.
+
+Esta estrategia fue diseñada para prevenir faltas a la integridad académica, pero principalmente para desarrollar la responsabilidad, el pensamiento crítico y la autonomía intelectual en los estudiantes. El objetivo es que comprendan que la IA puede ser una herramienta de apoyo para aprender, pero no un sustituto de su razonamiento ingenieril.
