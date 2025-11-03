@@ -9,3 +9,21 @@ El código de colores funciona como un sistema visual aplicado a cada actividad 
 - 🟢 Uso permitido de IA con acompañamiento: El estudiante puede utilizar IA para explorar conceptos, aclarar dudas o verificar resultados, siempre que cite las herramientas utilizadas y explique cómo influyeron en su proceso de aprendizaje.
 - 🟡 Uso restringido: Se permite consultar la IA solo para apoyo conceptual o referencias teóricas, pero no para generar soluciones completas o código de análisis.
 - 🔴 Uso prohibido: El estudiante debe resolver la actividad sin asistencia de IA, demostrando dominio personal de los procedimientos y razonamientos.
+
+Este código se aplica tanto en ejercicios individuales como en proyectos de simulación y diseño del voltímetro-óhmetro, fomentando que los estudiantes reflexionen antes de usar IA y decidan de forma ética cuándo su empleo potencia o interfiere con su aprendizaje.
+
+## 🧩 Relación con valores institucionales y competencias éticas
+La estrategia se alinea con los valores del Tec de Monterrey —integridad, responsabilidad y sentido humano— al promover que los estudiantes tomen decisiones informadas y éticamente responsables sobre el uso de tecnología.
+
+## 📈 Evidencias del impacto observado
+Durante la implementación piloto, se observó que los estudiantes:
+
+- Reflexionaron más sobre su proceso de aprendizaje y el papel de la IA.
+- Mostraron mayor disposición a verificar y justificar resultados por su cuenta antes de consultar herramientas automatizadas.
+- Desarrollaron una comprensión más profunda de los principios eléctricos al equilibrar razonamiento humano con apoyo tecnológico.
+
+## 🤝 Socialización de la estrategia
+Esta práctica fue compartida con otros docentes del área de Mecatrónica y Ciencias Computacionales, con el fin de promover una cultura académica de uso ético y responsable de la IA. Se busca que el código de colores se adopte como una buena práctica transversal en cursos de ingeniería donde el uso de herramientas de IA es cada vez más frecuente.
+
+
+
