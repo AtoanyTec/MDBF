@@ -45,3 +45,12 @@ El plan de evaluación tiene como finalidad **valorar el desarrollo progresivo d
 | **Evaluación sumativa 3**  | **Examen teórico-práctico final**                                              | Integrar los conocimientos de análisis de circuitos eléctricos y principios de instrumentación.                             | SIIT0301B, SIIT0101B       | Verificar dominio integral de los contenidos y competencias.                              | 25%                      |
 
 
+## 🔍 Justificación del plan de evaluación
+Este plan equilibra la evaluación conceptual, procedimeental y actitudinal, asegurando que el aprendizaje no se limite a la memorización de fórmulas sino que promueva la comprensión profunda, la resolución de problemas y el diseño ingenieril aplicado. Las evaluaciones formativas fomentan la retroalimentación continua y permiten ajustar estrategias de aprendizaje antes de las evaluaciones formativvs.
+El proyecto del voltímeetro-óhmetro constituye la evidencia integradora, al situar al/la estudiante en un contexto  simulado de práctica profesional, donde debe aplicar razonamientoteórico, modelado  matemático, habilidades experimentales y comunicación ténica.
+
+## 🚀 Propuesta de mejora continua
+- Incorporar evaluación entre pares durante las etapas de diseño y simulación del voltímetro-óhmetro, para fortalecer la coevaluación y acomunicación técnica.
+- Implementar una bitácora de diseño o portafolio digital, donde los estudiantes documenten decisiones, cálculos, simulaciones y aprendizjes.
+- Integrar una rúbrica institucional basada en compeencias para estandarizar criterios de logro en las actividades prácticas y proyectos.
+- Utilizar plataformas de simulación y medición remota para extender la práctica fuera del aula.
