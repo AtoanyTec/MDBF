@@ -16,3 +16,5 @@ Los indicadores de logro serán los siguientes:
 3. **Diseño e implementación**: Construye el voltímetro-óhhmetro verificando su desempeño mediante  mediciones experimentales
 4. **Justificación técnica**: Sustenta con argumentos científicos y cálculos el comportamiento del circuito diseñado
 5. **Comunicación de resulados**: Presenta el proceso de diseño y validación de manera estructurada, integrando fundamentos teóricos y evidencia empírica
+
+Esta activvidad evaluativa asegura la coherencia entre el propósito formativo, las competencias y los resultados de aprendizaje, al promover que  el/la estudiante evalúe, explique y diseñe dispositivos ingenieriles con base en principios científicos y metodológicos propios de sistemas eléctricos.
