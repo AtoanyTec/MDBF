@@ -1,19 +1,18 @@
 ### 🎯 **Objetivo de evaluación alineado al propósito formativo**
 
-El objetivo de la evaluación en la Unidad de Formación **TE1020 – Análisis de circuitos eléctricos** es **valorar la capacidad del estudiante para explicar, demostrar y evaluar el funcionamiento de sistemas y dispositivos ingenieriles a través del análisis de circuitos eléctricos**, aplicando de manera integrada los principios de las ciencias naturales, matemáticas y computación.
+El objetivo de evaluación de esta actividad es valorar la capacidad del/la estudiante para aplicar los princippios fundamentales del análisis de circuitos eléctricos en el diseño e implementaciónde un dispositivo funcional - un voltímetro-óhmetro a partir de un galvanómetro -, demostrando dominio conceptual, razonamiento analítico y criterio ingenieril en la selección y cálculode los componentes delcircuito.
 
-Esta evaluación se diseñó con el propósito de **comprobar el nivel de dominio alcanzado en los resultados de aprendizaje esperados**, particularmente en la comprensión y aplicación de las leyes fundamentales de los circuitos (Ohm, Kirchhoff, Thevenin, Norton y máxima transferencia de energía), así como en la **habilidad para analizar y resolver circuitos en corriente directa mediante métodos sistemáticos** (nodos, mallas y superposición).
+Este objetivo se alinea directamente con el propósito formativo de la Unidad de Formación (UF) TE1020 - Analisis de circuitos eléctricos, que busca que el/la estudiante explique, demuestre y evalúe el funcionamiento de sistemas y dispositivos ingenieriles mediante argumentaciones  sustentadas en los principios de las ciencias naturales, las matemáticas y la computación. A través del diseño del  voltímetro-óhmetro, el/la estudiante trasciende la resolución teórica de ejercicios para integrarse en un proceso de diseño ingenieril real, aplicando conocimientos científicos y matemáticos a la construcciónde un dispositivo medible y funcional.
 
-El proceso evaluativo se **centra en el desarrollo de competencias**, **integrando el razonamiento analítico, la justificación teórica y la demostración empírica** del comportamiento de los circuitos eléctricos. Los instrumentos de evaluación implementados permiten evidenciar la capacidad del/la estudiante para **aplicar conceptos eléctricos en la solución de problemas reales de ingeniería**, sustentando sus decisiones con argumentos estructurados y coherentes
+La actividad está centrada en el desarrollo de las siguientes competencias:
+- **SIIT0301B**: *Evalúa los componentes que integran una problemática de acuerdo a principios y procesos relacionados con sistemas y dispotivos ingenieriles*. Aquí, las/los estudiantes analizarán las características eléctricas del galvanómetro y los elementos asociados, evaluando su pertinencia para lograr una medición confiable y precisa.
+- **SIIT0101B**: *Explica el funcionamiento de sistems y dispositivos ingenieriles por medio de argumentaciones sustentadasen principios de las ciencias*.  Aquí las/los estudiantes fundamentarán de manera teórica y matemática el funcionamiento del voltímeetro-óhmetro, utilizando leyes de Ohm y Kirchhoff, así como los teoreemas de Thevenin y Norton para jutificar sus decisiones de diseño.
 
-Los **indicadores de logro** incluidos en el proceso evaluativo son:
+El proceso evaluativo permite evidenciar que el estudiante no solo resuelve circuitos,sino que diseña, construye y valida experimentalmente uun sistema ingenieril, integrando razonamiento teórico, cálculo analítico y experimentación práctica.
 
-* Identifica y relaciona correctamente las variables eléctricas (voltaje, corriente, potencia y energía) en diferentes tipos de circuitos.
-* Aplica con precisión las leyes de Ohm y Kirchhoff en el análisis de circuitos de corriente directa.
-* Utiliza métodos de nodos, mallas y teoremas de circuitos (Thevenin, Norton, superposición) para resolver sistemas eléctricos.
-* Interpreta los resultados obtenidos y los contrasta con modelos teóricos y de simulación.
-* Justifica de manera lógica y fundamentada las soluciones propuestas, evidenciando comprensión conceptual y capacidad crítica.
-
-En conjunto, esta alineación asegura que la evaluación contribuya directamente al **propósito formativo de la Unidad de Formación**, promoviendo en el/la estudiante no solo el dominio técnico del análisis de circuitos eléctricos, sino también el desarrollo de **competencias ingenieriles integrales** orientadas a la resolución de problemas y la argumentación sustentada en principios científicos.
-
----
+Los indicadores de logro serán los siguientes:
+1. **Análisis teórico**: Aplica correctamente las leyes y teoremas eléctricos (Ohm, Kirchhoff, Thevenin, Norton) para modelar el circuito equivalente.
+2. **Evaluación de componentes**: Determina las resistencias y parámetros necesarios considerando criterios de precisión, seguridad y funcionalidad.
+3. **Diseño e implementación**: Construye el voltímetro-óhhmetro verificando su desempeño mediante  mediciones experimentales
+4. **Justificación técnica**: Sustenta con argumentos científicos y cálculos el comportamiento del circuito diseñado
+5. **Comunicación de resulados**: Presenta el proceso de diseño y validación de manera estructurada, integrando fundamentos teóricos y evidencia empírica
